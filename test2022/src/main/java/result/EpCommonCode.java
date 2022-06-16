@@ -189,7 +189,7 @@ public class EpCommonCode {
      * @mbg.generated Wed Jun 15 17:26:11 KST 2022
      */
     public String getComnCdOptnNm() {
-        return comnCdOptnNm;
+        return comnCdOptnNm + "여기수정";
     }
 
     /**
