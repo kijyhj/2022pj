@@ -165,7 +165,7 @@ public class EpCommonCode {
      * @mbg.generated Wed Jun 15 17:26:11 KST 2022
      */
     public String getDelYn() {
-        return delYn+"1111";
+        return delYn+"2222";
     }
 
     /**
